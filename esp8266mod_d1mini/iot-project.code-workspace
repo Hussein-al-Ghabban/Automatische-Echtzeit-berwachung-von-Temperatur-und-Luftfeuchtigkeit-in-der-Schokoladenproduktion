@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/iot-project"
+		},
+		{
+			"name": "hussein_test",
+			"path": "../hussein_test"
+		},
+		{
+			"name": "esp8266mod_d1mini",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
